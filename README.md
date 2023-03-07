@@ -1,4 +1,10 @@
-### Hi there 👋
+### Oi, meu nome é Jacqueline 👋
+
+Estudante e aprendendo novas tecnologias.
+No meu repositório vai ter um pouco de tudo, 
+então sinta-se bem vindo(a) ao meu mundinho particular!
+
+
 
 <!--
 **jacquemota/jacquemota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
